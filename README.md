@@ -4,7 +4,10 @@ According to template suggested...
 
 I’m interested in dogs, music, travelling and learning. 
 I’m currently learning Front-end science, and I should say, that learning will be endless.  
-I'm TeachMeSkills graduate and insanely grateful to this school
+I graduated from TeachMeSchool course and now I continue to study on my own
+Learn more here:
+
+https://lireien.github.io/rsschool-cv/
 
 
 <!---
